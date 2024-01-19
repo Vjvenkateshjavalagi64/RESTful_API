@@ -9,3 +9,5 @@ RESTfull API  with json
 4) PUT/ users/id   --> Update the data of perticular user
 
 5) DELETE /users   --> Delete the data of perticular user
+
+6) Create one log file and upload log entries of client requests
