@@ -1,0 +1,11 @@
+RESTfull API  with json
+
+1) GET /users      --> Retrive all the data
+
+2) GET/users/id    --> Retrive the data at perticular address
+
+3) POST/users      --> Create the user 
+
+4) PUT/ users/id   --> Update the data of perticular user
+
+5) DELETE /users   --> Delete the data of perticular user
